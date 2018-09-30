@@ -1,0 +1,208 @@
+body{
+    background-color:#202024;
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron{
+    text-align: center;
+    background-image: url(imagenes/2.jpg);
+    background-position: center;
+    background-size: cover; 
+    color: #fff;
+    
+}
+
+.jumbotron .container h1{
+    font-family: 'Passion One', cursive;
+    font-size: 3em;
+}
+
+.botonF{
+    background-image: url(imagenes/3.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    border: 1px solid #fff;
+    border-radius:100%;
+    color: rgb(255, 255,255);
+    display: block;
+    height: 4em;
+    text-indent: 4em;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 4em;
+    margin: 0 auto 2em auto; 
+}
+
+.cajas{
+    background-color: #2c2c32;
+    width:350px;
+    height:500px;
+    border-radius:0.25em;
+    margin: 18px;
+    
+}
+
+.main .row .cajas h3{
+    text-align: center;
+    color: #ffffffff;
+    font-weight: bold;
+}
+
+.main .row .cajas p{
+    text-align: center;
+    font-weight: 100;
+    color: #b9b9bb;
+}
+
+.btn{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+    border-radius:0.25em 0.25em 0 0;
+    padding-top: 5px; 
+}
+
+#btn1{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: aqua;
+    color:white;
+    background-color: #82cec6;
+    border:none;
+}
+
+#btn6{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: aqua;
+    color:white;
+    background-color: #82cec6;
+    border: none;
+}
+
+#btn2{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: #9d7ed0;
+    color:white;
+    background-color: #9d7ed0;
+    border:none;
+}
+
+#btn4{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: #9d7ed0;
+    color:white;
+    background-color: #9d7ed0;
+    border:none;
+}
+
+#btn3{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: #70c7be;
+    color:white;
+    background-color: #7f92cf;
+    border:none;
+}
+
+#btn5{
+    width: 290px;
+    height: 40px;
+    margin:15px 25px 10px 25px;
+    text-align: center;
+    border-radius: 0.5em;
+    border-bottom-color: #70c7be;
+    color:white;
+    background-color: #7f92cf;
+    border:none;
+}
+
+footer{
+    color:white;
+    background-color:#1b1b1f;
+    text-align: center;
+}
+ul{
+   display: flex;
+   justify-content: center;
+
+}
+
+li{
+    list-style-type: none;
+    padding: 1em;
+    border-radius:5em solid; 
+}
+
+i{
+    border: 2px solid whitesmoke;
+    border-radius:100%;
+    color: rgb(255, 255,255);
+    display: block;
+    height: 3.1em;
+    width: 3.0em;
+    white-space: nowrap;
+    padding-top: 1em;
+    margin: 0 auto 2em auto;
+    font-size: 100%;
+}
+i:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+}
+
+.botonF:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+}
+ #btn1:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+
+ #btn2:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+ #btn3:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+ #btn4:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+ #btn5:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+ #btn6:hover{
+    border-color: rgb(207, 203, 203); 
+    background-color: rgb(207, 203, 203);
+ }
+
